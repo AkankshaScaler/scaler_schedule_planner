@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387503066526",
+    "project_id": "scaler-schedule-planner",
+    "storage_bucket": "scaler-schedule-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387503066526:android:b4aa8b1e7676362dd55a8f",
+        "android_client_info": {
+          "package_name": "com.example.scaler_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwarM2MFtE8mQK2ByAnSdsHt51r56CguI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
